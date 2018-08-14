@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.png</file>
+        <file>reerrr.png</file>
+        <file>asa.png</file>
+        <file>plays.png</file>
+        <file>cha2.png</file>
+        <file>bg12.jpg</file>
+        <file>dsdfd.png</file>
+        <file>dfs.png</file>
+        <file>bom.png</file>
+        <file>cha_2.png</file>
+        <file>cha_3.png</file>
+        <file>1.png</file>
+        <file>ch2.png</file>
+        <file>ch3.png</file>
+        <file>en.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>bgm.mp3</file>
+        <file>winsound.mp3</file>
+    </qresource>
+</RCC>
